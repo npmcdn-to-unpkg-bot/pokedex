@@ -3,8 +3,8 @@
 I created a pokedex with react. It's database is just a .json file. I did all read/write/edit operations by manipulating filesystem. 
 
 ## To use
-```npm install
-```node server.js
+```npm install  
+```node server.js  
 
 And visit <http://localhost:3000/>. Try opening multiple tabs!
 
