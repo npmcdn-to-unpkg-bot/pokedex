@@ -1,6 +1,6 @@
 # Pokedex
 
-I created a pokedex with react. It's database is just a .json file. I did all read/write/edit operations by manipulating filesystem. 
+I created a pokedex with react. It's database is just a .json file. I did all read/write/edit operations by manipulating filesystem. The listed pokemons range from #1 to #151.
 
 ## To use
 ```
