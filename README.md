@@ -17,3 +17,5 @@ You can change the port number by setting the `$PORT` environment variable befor
 ```sh
 PORT=3001 node server.js
 ```
+## Screenshot
+![alt tag](https://raw.githubusercontent.com/xinyzhang9/pokedex/master/screen.png)
