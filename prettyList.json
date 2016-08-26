@@ -10,8 +10,36 @@
             10
         ],
         "moves": [
-            "tackle",
-            "vine whip"
+            {
+                "name": "tackle",
+                "damage": 12,
+                "energyInc": 7
+            },
+            {
+                "name": "vine whip",
+                "damage": 7,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "sludge bomb",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "seed bomb",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "power whip",
+                "damage": 70,
+                "criticalRatio": 0.12,
+                "energyCost": 1.0
+            }
         ],
         "name": "Bulbasaur",
         "probability": 3,
@@ -25,9 +53,36 @@
         "evolveLevel": 32,
         "evolveTo": "3",
         "moves": [
-            "tackle",
-            "vine whip",
-            "razor leaf"
+            {
+                "name": "razor leaf",
+                "damage": 15,
+                "energyInc": 7
+            },
+            {
+                "name": "vine whip",
+                "damage": 7,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "sludge bomb",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "solar bomb",
+                "damage": 120,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "power whip",
+                "damage": 70,
+                "criticalRatio": 0.12,
+                "energyCost": 1.0
+            }
         ],
         "name": "Ivysaur",
         "favorite": false,
@@ -38,9 +93,36 @@
         "curve": 1.3,
         "defense": 83,
         "moves": [
-            "tackle",
-            "vine whip",
-            "razor leaf"
+            {
+                "name": "razor leaf",
+                "damage": 15,
+                "energyInc": 7
+            },
+            {
+                "name": "vine whip",
+                "damage": 7,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "sludge bomb",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "solar beam",
+                "damage": 120,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "petal blizzard",
+                "damage": 65,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            }
         ],
         "name": "Venusaur",
         "favorite": false,
@@ -57,9 +139,36 @@
             10
         ],
         "moves": [
-            "scratch",
-            "ember",
-            "metal claw"
+            {
+                "name": "scratch",
+                "damage": 6,
+                "energyInc": 7
+            },
+            {
+                "name": "ember",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "flame burst",
+                "damage": 30,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            },
+            {
+                "name": "flamethrower",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "flame charge",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            }
         ],
         "name": "Charmander",
         "probability": 3,
@@ -73,10 +182,36 @@
         "evolveLevel": 36,
         "evolveTo": "6",
         "moves": [
-            "scratch",
-            "ember",
-            "metal claw",
-            "flamethrower"
+            {
+                "name": "scratch",
+                "damage": 6,
+                "energyInc": 7
+            },
+            {
+                "name": "ember",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "flame burst",
+                "damage": 30,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            },
+            {
+                "name": "flamethrower",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "fire punch",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            }
         ],
         "name": "Charmeleon",
         "favorite": false,
@@ -87,10 +222,36 @@
         "curve": 1.3,
         "defense": 78,
         "moves": [
-            "flamethrower",
-            "wing attack",
-            "slash",
-            "metal claw"
+            {
+                "name": "wing attack",
+                "damage": 9,
+                "energyInc": 7
+            },
+            {
+                "name": "ember",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "dragon claw",
+                "damage": 35,
+                "criticalRatio": 0.25,
+                "energyCost": 0.5
+            },
+            {
+                "name": "flamethrower",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "fire blast",
+                "damage": 100,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            }
         ],
         "name": "Charizard",
         "favorite": false,
@@ -107,9 +268,36 @@
             10
         ],
         "moves": [
-            "tackle",
-            "bubble",
-            "water gun"
+            {
+                "name": "tackle",
+                "damage": 12,
+                "energyInc": 7
+            },
+            {
+                "name": "bubble",
+                "damage": 25,
+                "energyInc": 15
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "aqua jet",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "aqua tail",
+                "damage": 45,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "water pulse",
+                "damage": 35,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            }
         ],
         "name": "Squirtle",
         "probability": 3,
@@ -123,10 +311,36 @@
         "evolveLevel": 36,
         "evolveTo": "9",
         "moves": [
-            "tackle",
-            "bubble",
-            "water gun",
-            "bite"
+            {
+                "name": "bite",
+                "damage": 6,
+                "energyInc": 7
+            },
+            {
+                "name": "water gun",
+                "damage": 6,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "aqua jet",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "aqua tail",
+                "damage": 45,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "water pulse",
+                "damage": 35,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            }
         ],
         "name": "Wartortle",
         "favorite": false,
@@ -137,10 +351,36 @@
         "curve": 1.3,
         "defense": 100,
         "moves": [
-            "hydro pump",
-            "bubble",
-            "water gun",
-            "bite"
+            {
+                "name": "bite",
+                "damage": 6,
+                "energyInc": 7
+            },
+            {
+                "name": "water gun",
+                "damage": 6,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "ice beam",
+                "damage": 65,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "hydro pump",
+                "damage": 90,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "flash cannon",
+                "damage": 60,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            }
         ],
         "name": "Blastoise",
         "favorite": false,
@@ -157,7 +397,24 @@
             7
         ],
         "moves": [
-            "tackle"
+            {
+                "name": "tackle",
+                "damage": 12,
+                "energyInc": 7
+            },
+            {
+                "name": "bug bite",
+                "damage": 5,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "struggle",
+                "damage": 15,
+                "criticalRatio": 0.0,
+                "energyCost": 0.2
+            }
         ],
         "name": "Caterpie",
         "probability": 15,
@@ -168,6 +425,26 @@
         "name": "Metapod",
         "attack": 20,
         "defense": 55,
+        "moves": [
+            {
+                "name": "tackle",
+                "damage": 12,
+                "energyInc": 7
+            },
+            {
+                "name": "bug bite",
+                "damage": 5,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "struggle",
+                "damage": 15,
+                "criticalRatio": 0.0,
+                "energyCost": 0.2
+            }
+        ],
         "favorite": false,
         "type": "bug",
         "evolveTo": "12"
@@ -177,10 +454,36 @@
         "curve": 1.6,
         "defense": 50,
         "moves": [
-            "confusion",
-            "gust",
-            "psybeam",
-            "silver wind"
+            {
+                "name": "confusion",
+                "damage": 15,
+                "energyInc": 7
+            },
+            {
+                "name": "bug bite",
+                "damage": 5,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "psychic",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "bug buzz",
+                "damage": 75,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "signal beam",
+                "damage": 45,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            }
         ],
         "name": "Butterfree",
         "favorite": false,
@@ -197,7 +500,24 @@
             7
         ],
         "moves": [
-            "poison sting"
+            {
+                "name": "tackle",
+                "damage": 12,
+                "energyInc": 7
+            },
+            {
+                "name": "bug bite",
+                "damage": 5,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "struggle",
+                "damage": 15,
+                "criticalRatio": 0.0,
+                "energyCost": 0.2
+            }
         ],
         "name": "Weedle",
         "probability": 15,
@@ -208,6 +528,26 @@
         "name": "Kakuna",
         "attack": 25,
         "defense": 50,
+        "moves": [
+            {
+                "name": "bug bite",
+                "damage": 5,
+                "energyInc": 7
+            },
+            {
+                "name": "poison sting",
+                "damage": 6,
+                "energyInc": 4
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "struggle",
+                "damage": 15,
+                "criticalRatio": 0.0,
+                "energyCost": 0.2
+            }
+        ],
         "favorite": false,
         "type": "bug",
         "evolveTo": "15"
@@ -216,6 +556,38 @@
         "name": "Beedrill",
         "attack": 40,
         "defense": 45,
+        "moves": [
+            {
+                "name": "bug bite",
+                "damage": 5,
+                "energyInc": 7
+            },
+            {
+                "name": "poison jab",
+                "damage": 15,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "aerial ace",
+                "damage": 30,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            },
+            {
+                "name": "sludge bomb",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "x-scissor",
+                "damage": 35,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            }
+        ],
         "favorite": false,
         "type": "bug"
     },
@@ -230,8 +602,36 @@
             10
         ],
         "moves": [
-            "tackle",
-            "gust"
+            {
+                "name": "tackle",
+                "damage": 12,
+                "energyInc": 7
+            },
+            {
+                "name": "quick attack",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "twister",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "aerial ace",
+                "damage": 30,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            },
+            {
+                "name": "air cutter",
+                "damage": 30,
+                "criticalRatio": 0.25,
+                "energyCost": 0.25
+            }
         ],
         "name": "Pidgey",
         "probability": 15,
@@ -245,9 +645,36 @@
         "evolveLevel": 36,
         "evolveTo": "18",
         "moves": [
-            "tackle",
-            "gust",
-            "wing attack"
+            {
+                "name": "wing attack",
+                "damage": 9,
+                "energyInc": 7
+            },
+            {
+                "name": "steel wing",
+                "damage": 15,
+                "energyInc": 4
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "twister",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "aerial ace",
+                "damage": 30,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            },
+            {
+                "name": "air cutter",
+                "damage": 30,
+                "criticalRatio": 0.25,
+                "energyCost": 0.25
+            }
         ],
         "name": "Pidgeotto",
         "favorite": false,
@@ -258,9 +685,36 @@
         "curve": 1.3,
         "defense": 75,
         "moves": [
-            "tackle",
-            "gust",
-            "wing attack"
+            {
+                "name": "wing attack",
+                "damage": 9,
+                "energyInc": 7
+            },
+            {
+                "name": "steel wing",
+                "damage": 15,
+                "energyInc": 4
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "hurricane",
+                "damage": 80,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "aerial ace",
+                "damage": 30,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            },
+            {
+                "name": "air cutter",
+                "damage": 30,
+                "criticalRatio": 0.25,
+                "energyCost": 0.25
+            }
         ],
         "name": "Pidgeot",
         "favorite": false,
@@ -277,8 +731,36 @@
             7
         ],
         "moves": [
-            "tackle",
-            "hyper fang"
+            {
+                "name": "tackle",
+                "damage": 12,
+                "energyInc": 7
+            },
+            {
+                "name": "quick attack",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "dig",
+                "damage": 70,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "hyper fang",
+                "damage": 35,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "body slam",
+                "damage": 40,
+                "criticalRatio": 0.25,
+                "energyCost": 0.5
+            }
         ],
         "name": "Rattata",
         "probability": 20,
@@ -290,8 +772,36 @@
         "curve": 1.6,
         "defense": 60,
         "moves": [
-            "tackle",
-            "hyper fang"
+            {
+                "name": "tackle",
+                "damage": 12,
+                "energyInc": 7
+            },
+            {
+                "name": "quick attack",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "dig",
+                "damage": 70,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "hyper fang",
+                "damage": 35,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "hyper beam",
+                "damage": 120,
+                "criticalRatio": 0.25,
+                "energyCost": 1.0
+            }
         ],
         "name": "Raticate",
         "favorite": false,
@@ -308,7 +818,36 @@
             15
         ],
         "moves": [
-            "peck"
+            {
+                "name": "peck",
+                "damage": 10,
+                "energyInc": 10
+            },
+            {
+                "name": "quick attack",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "aerial ace",
+                "damage": 30,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            },
+            {
+                "name": "twister",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "drill peck",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            }
         ],
         "name": "Spearow",
         "probability": 10,
@@ -320,8 +859,36 @@
         "curve": 1.6,
         "defense": 65,
         "moves": [
-            "peck",
-            "drill peck"
+            {
+                "name": "peck",
+                "damage": 10,
+                "energyInc": 10
+            },
+            {
+                "name": "steel wing",
+                "damage": 15,
+                "energyInc": 4
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "aerial ace",
+                "damage": 30,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            },
+            {
+                "name": "twister",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "drill run",
+                "damage": 50,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            }
         ],
         "name": "Fearow",
         "favorite": false,
@@ -338,8 +905,36 @@
             15
         ],
         "moves": [
-            "poison sting",
-            "bite"
+            {
+                "name": "acid",
+                "damage": 10,
+                "energyInc": 7
+            },
+            {
+                "name": "poison sting",
+                "damage": 6,
+                "energyInc": 4
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "gunk shot",
+                "damage": 65,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "sludge bomb",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "wrap",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            }
         ],
         "name": "Ekans",
         "probability": 15,
@@ -351,9 +946,36 @@
         "curve": 1.6,
         "defense": 69,
         "moves": [
-            "poison sting",
-            "bite",
-            "acid"
+            {
+                "name": "acid",
+                "damage": 10,
+                "energyInc": 7
+            },
+            {
+                "name": "bite",
+                "damage": 6,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "gunk shot",
+                "damage": 65,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "sludge wave",
+                "damage": 70,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "dark pulse",
+                "damage": 45,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            }
         ],
         "name": "Arbok",
         "favorite": false,
@@ -363,6 +985,38 @@
         "name": "Pikachu",
         "attack": 50,
         "defense": 40,
+        "moves": [
+            {
+                "name": "thunder shot",
+                "damage": 5,
+                "energyInc": 7
+            },
+            {
+                "name": "quick attack",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "thunderbolt",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "discharge",
+                "damage": 35,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "thunder",
+                "damage": 100,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            }
+        ],
         "favorite": false,
         "type": "electric",
         "evolveTo": "26"
@@ -372,8 +1026,36 @@
         "curve": 1.6,
         "defense": 55,
         "moves": [
-            "thundershock",
-            "thunderbolt"
+            {
+                "name": "thunder shot",
+                "damage": 5,
+                "energyInc": 7
+            },
+            {
+                "name": "spark",
+                "damage": 7,
+                "energyInc": 4
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "brick break",
+                "damage": 30,
+                "criticalRatio": 0.25,
+                "energyCost": 0.3
+            },
+            {
+                "name": "thunder punch",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "thunder",
+                "damage": 100,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            }
         ],
         "name": "Raichu",
         "favorite": false,
@@ -390,8 +1072,36 @@
             15
         ],
         "moves": [
-            "scratch",
-            "poison sting"
+            {
+                "name": "scratch",
+                "damage": 6,
+                "energyInc": 7
+            },
+            {
+                "name": "mud shot",
+                "damage": 12,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "dig",
+                "damage": 70,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "rock slide",
+                "damage": 50,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "rock tomb",
+                "damage": 30,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            }
         ],
         "name": "Sandshrew",
         "probability": 10,
@@ -403,10 +1113,36 @@
         "curve": 1.6,
         "defense": 110,
         "moves": [
-            "scratch",
-            "poison sting",
-            "slash",
-            "swift"
+            {
+                "name": "metal claw",
+                "damage": 12,
+                "energyInc": 7
+            },
+            {
+                "name": "mud shot",
+                "damage": 12,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "rock tomb",
+                "damage": 30,
+                "criticalRatio": 0.25,
+                "energyCost": 0.25
+            },
+            {
+                "name": "bulldoze",
+                "damage": 35,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            },
+            {
+                "name": "earthquake",
+                "damage": 100,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            }
         ],
         "name": "Sandslash",
         "favorite": false,
@@ -423,7 +1159,36 @@
             8
         ],
         "moves": [
-            "scratch"
+            {
+                "name": "poison sting",
+                "damage": 6,
+                "energyInc": 4
+            },
+            {
+                "name": "bite",
+                "damage": 6,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "poison fang",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "sludge bomb",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "body slam",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            }
         ],
         "name": "Nidoran",
         "probability": 15,
@@ -434,6 +1199,38 @@
         "name": "Nidorina",
         "attack": 62,
         "defense": 67,
+        "moves": [
+            {
+                "name": "poison sting",
+                "damage": 6,
+                "energyInc": 4
+            },
+            {
+                "name": "bite",
+                "damage": 6,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "poison fang",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "sludge bomb",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "dig",
+                "damage": 70,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            }
+        ],
         "favorite": false,
         "type": "poison",
         "evolveTo": "31"
@@ -443,10 +1240,36 @@
         "curve": 1.3,
         "defense": 87,
         "moves": [
-            "scratch",
-            "poison sting",
-            "body slam",
-            "superpower"
+            {
+                "name": "poison jab",
+                "damage": 15,
+                "energyInc": 7
+            },
+            {
+                "name": "bite",
+                "damage": 6,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "stone edge",
+                "damage": 80,
+                "criticalRatio": 0.5,
+                "energyCost": 1.0
+            },
+            {
+                "name": "sludge wave",
+                "damage": 70,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "body slam",
+                "damage": 100,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            }
         ],
         "name": "Nidoqueen",
         "favorite": false,
@@ -463,7 +1286,36 @@
             8
         ],
         "moves": [
-            "peck"
+            {
+                "name": "poison sting",
+                "damage": 6,
+                "energyInc": 4
+            },
+            {
+                "name": "peck",
+                "damage": 10,
+                "energyInc": 10
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "horn attack",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            },
+            {
+                "name": "body slam",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "sludge bomb",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            }
         ],
         "name": "Nidoran",
         "probability": 15,
@@ -474,6 +1326,38 @@
         "name": "Nidorino",
         "attack": 72,
         "defense": 57,
+        "moves": [
+            {
+                "name": "poison sting",
+                "damage": 6,
+                "energyInc": 4
+            },
+            {
+                "name": "bite",
+                "damage": 6,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "horn attack",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            },
+            {
+                "name": "dig",
+                "damage": 70,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "sludge bomb",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            }
+        ],
         "favorite": false,
         "type": "poison",
         "evolveTo": "34"
@@ -483,9 +1367,36 @@
         "curve": 1.3,
         "defense": 77,
         "moves": [
-            "peck",
-            "poison sting",
-            "megahorn"
+            {
+                "name": "poison jab",
+                "damage": 15,
+                "energyInc": 7
+            },
+            {
+                "name": "fury cutter",
+                "damage": 3,
+                "energyInc": 12
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "megahorn",
+                "damage": 80,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "earthquake",
+                "damage": 100,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "sludge wave",
+                "damage": 70,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            }
         ],
         "name": "Nidoking",
         "favorite": false,
@@ -495,6 +1406,38 @@
         "name": "Clefairy",
         "attack": 45,
         "defense": 48,
+        "moves": [
+            {
+                "name": "zen headbutt",
+                "damage": 12,
+                "energyInc": 4
+            },
+            {
+                "name": "pound",
+                "damage": 7,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "disarming voice",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "body slam",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "moonblast",
+                "damage": 85,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            }
+        ],
         "favorite": false,
         "type": "fairy",
         "evolveTo": "36"
@@ -503,6 +1446,38 @@
         "name": "Clefable",
         "attack": 70,
         "defense": 73,
+        "moves": [
+            {
+                "name": "zen headbutt",
+                "damage": 12,
+                "energyInc": 4
+            },
+            {
+                "name": "pound",
+                "damage": 7,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "psychic",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "dazzling gleam",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "moonblast",
+                "damage": 85,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            }
+        ],
         "favorite": false,
         "type": "fairy"
     },
@@ -510,6 +1485,38 @@
         "name": "Vulpix",
         "attack": 38,
         "defense": 41,
+        "moves": [
+            {
+                "name": "quick attack",
+                "damage": 10,
+                "energyInc": 7
+            },
+            {
+                "name": "ember",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "flamethrower",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "body slam",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "flame charge",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            }
+        ],
         "favorite": false,
         "type": "fire",
         "evolveTo": "38"
@@ -519,7 +1526,36 @@
         "curve": 1.6,
         "defense": 75,
         "moves": [
-            "ember"
+            {
+                "name": "feint attack",
+                "damage": 12,
+                "energyInc": 7
+            },
+            {
+                "name": "ember",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "heat wave",
+                "damage": 80,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "fire blast",
+                "damage": 100,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "flamethrower",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            }
         ],
         "name": "Ninetales",
         "favorite": false,
@@ -529,6 +1565,38 @@
         "name": "Jigglypuff",
         "attack": 45,
         "defense": 20,
+        "moves": [
+            {
+                "name": "feint attack",
+                "damage": 12,
+                "energyInc": 7
+            },
+            {
+                "name": "pound",
+                "damage": 7,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "disarming voice",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "body slam",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "dazzling gleam",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            }
+        ],
         "favorite": false,
         "type": "fairy",
         "evolveTo": "40"
@@ -537,6 +1605,38 @@
         "name": "Wigglytuff",
         "attack": 70,
         "defense": 45,
+        "moves": [
+            {
+                "name": "feint attack",
+                "damage": 12,
+                "energyInc": 7
+            },
+            {
+                "name": "pound",
+                "damage": 7,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "dazzling gleam",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "hyper beam",
+                "damage": 120,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "play rough",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            }
+        ],
         "favorite": false,
         "type": "fairy"
     },
@@ -551,9 +1651,36 @@
             15
         ],
         "moves": [
-            "astonish",
-            "bite",
-            "wing attack"
+            {
+                "name": "bite",
+                "damage": 6,
+                "energyInc": 7
+            },
+            {
+                "name": "quick attack",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "sludge bomb",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "poison fang",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "air cutter",
+                "damage": 30,
+                "criticalRatio": 0.25,
+                "energyCost": 0.25
+            }
         ],
         "name": "Zubat",
         "probability": 15,
@@ -565,10 +1692,36 @@
         "curve": 1.6,
         "defense": 70,
         "moves": [
-            "poison fang",
-            "bite",
-            "wing attack",
-            "air cutter"
+            {
+                "name": "bite",
+                "damage": 6,
+                "energyInc": 7
+            },
+            {
+                "name": "wing attack",
+                "damage": 9,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "ominous wind",
+                "damage": 30,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "poison fang",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "air cutter",
+                "damage": 30,
+                "criticalRatio": 0.25,
+                "energyCost": 0.25
+            }
         ],
         "name": "Golbat",
         "favorite": false,
@@ -578,6 +1731,38 @@
         "name": "Oddish",
         "attack": 50,
         "defense": 55,
+        "moves": [
+            {
+                "name": "razor leaf",
+                "damage": 15,
+                "energyInc": 7
+            },
+            {
+                "name": "acid",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "moonblast",
+                "damage": 85,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "seed bomb",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "sludge bomb",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            }
+        ],
         "favorite": false,
         "type": "grass",
         "evolveTo": "44"
@@ -586,6 +1771,38 @@
         "name": "Gloom",
         "attack": 65,
         "defense": 70,
+        "moves": [
+            {
+                "name": "razor leaf",
+                "damage": 15,
+                "energyInc": 7
+            },
+            {
+                "name": "acid",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "moonblast",
+                "damage": 85,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "petal blizzard",
+                "damage": 65,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "sludge bomb",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            }
+        ],
         "favorite": false,
         "type": "grass",
         "evolveTo": "45"
@@ -594,6 +1811,38 @@
         "name": "Vileplume",
         "attack": 80,
         "defense": 85,
+        "moves": [
+            {
+                "name": "razor leaf",
+                "damage": 15,
+                "energyInc": 7
+            },
+            {
+                "name": "acid",
+                "damage": 10,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "moonblast",
+                "damage": 85,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "petal blizzard",
+                "damage": 65,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "solar beam",
+                "damage": 120,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            }
+        ],
         "favorite": false,
         "type": "grass"
     },
@@ -608,7 +1857,36 @@
             15
         ],
         "moves": [
-            "scratch"
+            {
+                "name": "bug bite",
+                "damage": 5,
+                "energyInc": 7
+            },
+            {
+                "name": "scratch",
+                "damage": 6,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "seed bomb",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "x-scissor",
+                "damage": 35,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "cross poison",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            }
         ],
         "name": "Paras",
         "probability": 15,
@@ -620,8 +1898,36 @@
         "curve": 1.6,
         "defense": 80,
         "moves": [
-            "scratch",
-            "slash"
+            {
+                "name": "bug bite",
+                "damage": 5,
+                "energyInc": 7
+            },
+            {
+                "name": "fury cutter",
+                "damage": 3,
+                "energyInc": 12
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "solar beam",
+                "damage": 120,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "x-scissor",
+                "damage": 35,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "cross poison",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            }
         ],
         "name": "Parasect",
         "favorite": false,
@@ -638,8 +1944,36 @@
             24
         ],
         "moves": [
-            "tackle",
-            "confusion"
+            {
+                "name": "bug bite",
+                "damage": 5,
+                "energyInc": 7
+            },
+            {
+                "name": "confusion",
+                "damage": 15,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "signal beam",
+                "damage": 45,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "poison fang",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            },
+            {
+                "name": "psybeam",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            }
         ],
         "name": "Venonat",
         "probability": 8,
@@ -651,10 +1985,36 @@
         "curve": 1.6,
         "defense": 60,
         "moves": [
-            "psybeam",
-            "psychic",
-            "confusion",
-            "gust"
+            {
+                "name": "bug bite",
+                "damage": 5,
+                "energyInc": 7
+            },
+            {
+                "name": "confusion",
+                "damage": 15,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "bug buzz",
+                "damage": 75,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "poison fang",
+                "damage": 25,
+                "criticalRatio": 0.05,
+                "energyCost": 0.2
+            },
+            {
+                "name": "psychic",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            }
         ],
         "name": "Venomoth",
         "favorite": false,
@@ -671,7 +2031,36 @@
             16
         ],
         "moves": [
-            "scratch"
+            {
+                "name": "scratch",
+                "damage": 6,
+                "energyInc": 7
+            },
+            {
+                "name": "mud slap",
+                "damage": 15,
+                "energyInc": 9
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "rock tomb",
+                "damage": 30,
+                "criticalRatio": 0.25,
+                "energyCost": 0.25
+            },
+            {
+                "name": "dig",
+                "damage": 70,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "mud bomb",
+                "damage": 30,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            }
         ],
         "name": "Diglett",
         "probability": 15,
@@ -683,9 +2072,36 @@
         "curve": 1.6,
         "defense": 50,
         "moves": [
-            "scratch",
-            "slash",
-            "earthquake"
+            {
+                "name": "sucker punch",
+                "damage": 7,
+                "energyInc": 4
+            },
+            {
+                "name": "mud slap",
+                "damage": 15,
+                "energyInc": 9
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "stone edge",
+                "damage": 80,
+                "criticalRatio": 0.5,
+                "energyCost": 1.0
+            },
+            {
+                "name": "earthquake",
+                "damage": 100,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "mud bomb",
+                "damage": 30,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            }
         ],
         "name": "Dugtrio",
         "favorite": false,
@@ -702,8 +2118,36 @@
             20
         ],
         "moves": [
-            "scratch",
-            "bite"
+            {
+                "name": "scratch",
+                "damage": 6,
+                "energyInc": 7
+            },
+            {
+                "name": "bite",
+                "damage": 6,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "dark pulse",
+                "damage": 45,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "night slash",
+                "damage": 30,
+                "criticalRatio": 0.25,
+                "energyCost": 0.25
+            },
+            {
+                "name": "body slam",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            }
         ],
         "name": "Meowth",
         "probability": 10,
@@ -715,9 +2159,36 @@
         "curve": 1.6,
         "defense": 60,
         "moves": [
-            "scratch",
-            "bite",
-            "slash"
+            {
+                "name": "scratch",
+                "damage": 6,
+                "energyInc": 7
+            },
+            {
+                "name": "feint attack",
+                "damage": 12,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "play rough",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "power gem",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.3
+            },
+            {
+                "name": "night slash",
+                "damage": 30,
+                "criticalRatio": 0.25,
+                "energyCost": 0.25
+            }
         ],
         "name": "Persian",
         "favorite": false,
@@ -734,8 +2205,36 @@
             20
         ],
         "moves": [
-            "scratch",
-            "confusion"
+            {
+                "name": "zen headbutt",
+                "damage": 12,
+                "energyInc": 4
+            },
+            {
+                "name": "water gun",
+                "damage": 6,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "aqua tail",
+                "damage": 45,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "cross chop",
+                "damage": 60,
+                "criticalRatio": 0.25,
+                "energyCost": 1.0
+            },
+            {
+                "name": "psybeam",
+                "damage": 40,
+                "criticalRatio": 0.05,
+                "energyCost": 0.25
+            }
         ],
         "name": "Psyduck",
         "probability": 15,
@@ -747,9 +2246,36 @@
         "curve": 1.6,
         "defense": 78,
         "moves": [
-            "scratch",
-            "confusion",
-            "hydro pump"
+            {
+                "name": "confusion",
+                "damage": 15,
+                "energyInc": 7
+            },
+            {
+                "name": "water gun",
+                "damage": 6,
+                "energyInc": 7
+            }
+        ],
+        "supermoves":[
+            {
+                "name": "hydro pump",
+                "damage": 90,
+                "criticalRatio": 0.05,
+                "energyCost": 1.0
+            },
+            {
+                "name": "ice beam",
+                "damage": 60,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            },
+            {
+                "name": "psychic",
+                "damage": 55,
+                "criticalRatio": 0.05,
+                "energyCost": 0.5
+            }
         ],
         "name": "Golduck",
         "favorite": false,
