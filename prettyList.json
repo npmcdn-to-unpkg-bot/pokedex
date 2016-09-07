@@ -21,7 +21,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "sludge bomb",
                 "damage": 55,
@@ -38,7 +38,7 @@
                 "name": "power whip",
                 "damage": 70,
                 "criticalRatio": 0.12,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Bulbasaur",
@@ -64,7 +64,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "sludge bomb",
                 "damage": 55,
@@ -75,17 +75,17 @@
                 "name": "solar bomb",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "power whip",
                 "damage": 70,
                 "criticalRatio": 0.12,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Ivysaur",
-        "favorite": false,
+        "favorite": true,
         "type": "grass"
     },
     "3": {
@@ -104,7 +104,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "sludge bomb",
                 "damage": 55,
@@ -115,7 +115,7 @@
                 "name": "solar beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "petal blizzard",
@@ -150,7 +150,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "flame burst",
                 "damage": 30,
@@ -172,7 +172,7 @@
         ],
         "name": "Charmander",
         "probability": 3,
-        "favorite": false,
+        "favorite": true,
         "type": "fire"
     },
     "5": {
@@ -193,7 +193,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "flame burst",
                 "damage": 30,
@@ -233,7 +233,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "dragon claw",
                 "damage": 35,
@@ -250,7 +250,7 @@
                 "name": "fire blast",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Charizard",
@@ -279,7 +279,7 @@
                 "energyInc": 15
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "aqua jet",
                 "damage": 25,
@@ -322,7 +322,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "aqua jet",
                 "damage": 25,
@@ -362,7 +362,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "ice beam",
                 "damage": 65,
@@ -373,7 +373,7 @@
                 "name": "hydro pump",
                 "damage": 90,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "flash cannon",
@@ -408,11 +408,11 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "struggle",
                 "damage": 15,
-                "criticalRatio": 0.0,
+                "criticalRatio": 0,
                 "energyCost": 0.2
             }
         ],
@@ -437,11 +437,11 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "struggle",
                 "damage": 15,
-                "criticalRatio": 0.0,
+                "criticalRatio": 0,
                 "energyCost": 0.2
             }
         ],
@@ -465,7 +465,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "psychic",
                 "damage": 55,
@@ -511,11 +511,11 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "struggle",
                 "damage": 15,
-                "criticalRatio": 0.0,
+                "criticalRatio": 0,
                 "energyCost": 0.2
             }
         ],
@@ -540,11 +540,11 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "struggle",
                 "damage": 15,
-                "criticalRatio": 0.0,
+                "criticalRatio": 0,
                 "energyCost": 0.2
             }
         ],
@@ -568,7 +568,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "aerial ace",
                 "damage": 30,
@@ -613,7 +613,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "twister",
                 "damage": 25,
@@ -656,7 +656,7 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "twister",
                 "damage": 25,
@@ -696,12 +696,12 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "hurricane",
                 "damage": 80,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "aerial ace",
@@ -742,7 +742,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "dig",
                 "damage": 70,
@@ -783,7 +783,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "dig",
                 "damage": 70,
@@ -800,7 +800,7 @@
                 "name": "hyper beam",
                 "damage": 120,
                 "criticalRatio": 0.25,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Raticate",
@@ -829,7 +829,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "aerial ace",
                 "damage": 30,
@@ -870,7 +870,7 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "aerial ace",
                 "damage": 30,
@@ -916,12 +916,12 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "gunk shot",
                 "damage": 65,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "sludge bomb",
@@ -957,18 +957,18 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "gunk shot",
                 "damage": 65,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "sludge wave",
                 "damage": 70,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "dark pulse",
@@ -997,7 +997,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "thunderbolt",
                 "damage": 55,
@@ -1014,7 +1014,7 @@
                 "name": "thunder",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "favorite": false,
@@ -1037,7 +1037,7 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "brick break",
                 "damage": 30,
@@ -1054,7 +1054,7 @@
                 "name": "thunder",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Raichu",
@@ -1083,7 +1083,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "dig",
                 "damage": 70,
@@ -1124,7 +1124,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "rock tomb",
                 "damage": 30,
@@ -1141,7 +1141,7 @@
                 "name": "earthquake",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Sandslash",
@@ -1170,7 +1170,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "poison fang",
                 "damage": 25,
@@ -1211,7 +1211,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "poison fang",
                 "damage": 25,
@@ -1251,24 +1251,24 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "stone edge",
                 "damage": 80,
                 "criticalRatio": 0.5,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "sludge wave",
                 "damage": 70,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "body slam",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Nidoqueen",
@@ -1297,7 +1297,7 @@
                 "energyInc": 10
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "horn attack",
                 "damage": 25,
@@ -1338,7 +1338,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "horn attack",
                 "damage": 25,
@@ -1378,24 +1378,24 @@
                 "energyInc": 12
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "megahorn",
                 "damage": 80,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "earthquake",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "sludge wave",
                 "damage": 70,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Nidoking",
@@ -1418,7 +1418,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "disarming voice",
                 "damage": 25,
@@ -1435,7 +1435,7 @@
                 "name": "moonblast",
                 "damage": 85,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "favorite": false,
@@ -1458,7 +1458,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "psychic",
                 "damage": 55,
@@ -1475,7 +1475,7 @@
                 "name": "moonblast",
                 "damage": 85,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "favorite": false,
@@ -1497,7 +1497,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "flamethrower",
                 "damage": 55,
@@ -1537,18 +1537,18 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "heat wave",
                 "damage": 80,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "fire blast",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "flamethrower",
@@ -1577,7 +1577,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "disarming voice",
                 "damage": 25,
@@ -1617,7 +1617,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "dazzling gleam",
                 "damage": 55,
@@ -1628,7 +1628,7 @@
                 "name": "hyper beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "play rough",
@@ -1662,7 +1662,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "sludge bomb",
                 "damage": 55,
@@ -1703,7 +1703,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "ominous wind",
                 "damage": 30,
@@ -1743,12 +1743,12 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "moonblast",
                 "damage": 85,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "seed bomb",
@@ -1783,12 +1783,12 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "moonblast",
                 "damage": 85,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "petal blizzard",
@@ -1823,12 +1823,12 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "moonblast",
                 "damage": 85,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "petal blizzard",
@@ -1840,7 +1840,7 @@
                 "name": "solar beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "favorite": false,
@@ -1868,7 +1868,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "seed bomb",
                 "damage": 40,
@@ -1909,12 +1909,12 @@
                 "energyInc": 12
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "solar beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "x-scissor",
@@ -1955,7 +1955,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "signal beam",
                 "damage": 45,
@@ -1996,7 +1996,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "bug buzz",
                 "damage": 75,
@@ -2042,7 +2042,7 @@
                 "energyInc": 9
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "rock tomb",
                 "damage": 30,
@@ -2083,18 +2083,18 @@
                 "energyInc": 9
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "stone edge",
                 "damage": 80,
                 "criticalRatio": 0.5,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "earthquake",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "mud bomb",
@@ -2129,7 +2129,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "dark pulse",
                 "damage": 45,
@@ -2170,7 +2170,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "play rough",
                 "damage": 55,
@@ -2216,7 +2216,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "aqua tail",
                 "damage": 45,
@@ -2227,7 +2227,7 @@
                 "name": "cross chop",
                 "damage": 60,
                 "criticalRatio": 0.25,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "psybeam",
@@ -2257,12 +2257,12 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "hydro pump",
                 "damage": 90,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "ice beam",
@@ -2303,7 +2303,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "brick break",
                 "damage": 30,
@@ -2314,7 +2314,7 @@
                 "name": "cross chop",
                 "damage": 60,
                 "criticalRatio": 0.25,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "low sweep",
@@ -2344,7 +2344,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "night slash",
                 "damage": 30,
@@ -2355,7 +2355,7 @@
                 "name": "cross chop",
                 "damage": 60,
                 "criticalRatio": 0.25,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "low sweep",
@@ -2384,7 +2384,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "flame wheel",
                 "damage": 40,
@@ -2424,12 +2424,12 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "fore blast",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "bulldoze",
@@ -2470,7 +2470,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "bubble beam",
                 "damage": 30,
@@ -2511,7 +2511,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "bubble beam",
                 "damage": 30,
@@ -2551,7 +2551,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "ice punch",
                 "damage": 45,
@@ -2562,7 +2562,7 @@
                 "name": "hydro pump",
                 "damage": 90,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "submission",
@@ -2585,7 +2585,7 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "shadow ball",
                 "damage": 45,
@@ -2625,7 +2625,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "shadow ball",
                 "damage": 45,
@@ -2665,7 +2665,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "shadow ball",
                 "damage": 45,
@@ -2711,7 +2711,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "brick break",
                 "damage": 30,
@@ -2722,7 +2722,7 @@
                 "name": "cross chop",
                 "damage": 60,
                 "criticalRatio": 0.25,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "low sweep",
@@ -2752,7 +2752,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "brick break",
                 "damage": 30,
@@ -2763,7 +2763,7 @@
                 "name": "cross chop",
                 "damage": 60,
                 "criticalRatio": 0.25,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "submission",
@@ -2792,18 +2792,18 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "stone edge",
                 "damage": 80,
                 "criticalRatio": 0.5,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "cross chop",
                 "damage": 60,
                 "criticalRatio": 0.25,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "submission",
@@ -2838,7 +2838,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "sludge bomb",
                 "damage": 55,
@@ -2849,7 +2849,7 @@
                 "name": "power whip",
                 "damage": 70,
                 "criticalRatio": 0.12,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "wrap",
@@ -2879,7 +2879,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "sludge bomb",
                 "damage": 55,
@@ -2890,7 +2890,7 @@
                 "name": "power whip",
                 "damage": 70,
                 "criticalRatio": 0.12,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "seed bomb",
@@ -2919,7 +2919,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "sludge bomb",
                 "damage": 55,
@@ -2936,7 +2936,7 @@
                 "name": "solar beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Victreebel",
@@ -2965,7 +2965,7 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "bubble beam",
                 "damage": 30,
@@ -3006,24 +3006,24 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "blizzard",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "hydro pump",
                 "damage": 90,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "sludge wave",
                 "damage": 70,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Tentacruel",
@@ -3052,7 +3052,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "rock slide",
                 "damage": 50,
@@ -3093,7 +3093,7 @@
                 "energyInc": 9
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "rock slide",
                 "damage": 50,
@@ -3110,7 +3110,7 @@
                 "name": "stone edge",
                 "damage": 80,
                 "criticalRatio": 0.5,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "favorite": false,
@@ -3133,7 +3133,7 @@
                 "energyInc": 9
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "ancient power",
                 "damage": 35,
@@ -3144,13 +3144,13 @@
                 "name": "earthquake",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "stone edge",
                 "damage": 80,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Golem",
@@ -3179,7 +3179,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "flame wheel",
                 "damage": 40,
@@ -3190,7 +3190,7 @@
                 "name": "fire blast",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "fire charge",
@@ -3220,18 +3220,18 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "heat wave",
                 "damage": 80,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "fire blast",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "drill run",
@@ -3266,7 +3266,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "psychic",
                 "damage": 55,
@@ -3307,7 +3307,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "psychic",
                 "damage": 55,
@@ -3353,7 +3353,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "magnet bomb",
                 "damage": 30,
@@ -3394,7 +3394,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "magnet bomb",
                 "damage": 30,
@@ -3438,7 +3438,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "air cutter",
                 "damage": 30,
@@ -3485,7 +3485,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "swift",
                 "damage": 30,
@@ -3526,7 +3526,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "drill peck",
                 "damage": 40,
@@ -3572,7 +3572,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "aqua jet",
                 "damage": 25,
@@ -3613,7 +3613,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "aqua jet",
                 "damage": 25,
@@ -3630,7 +3630,7 @@
                 "name": "blizzard",
                 "damage": 45,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Dewgong",
@@ -3659,7 +3659,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "sludge",
                 "damage": 30,
@@ -3700,12 +3700,12 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "sludge wave",
                 "damage": 70,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "sludge bomb",
@@ -3740,7 +3740,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "icy wind",
                 "damage": 25,
@@ -3780,7 +3780,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "icy wind",
                 "damage": 25,
@@ -3791,13 +3791,13 @@
                 "name": "blizzard",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "hydro pump",
                 "damage": 90,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Cloyster",
@@ -3826,7 +3826,7 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "dark pulse",
                 "damage": 45,
@@ -3867,7 +3867,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "shadow ball",
                 "damage": 45,
@@ -3907,7 +3907,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "shadow ball",
                 "damage": 45,
@@ -3951,7 +3951,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "rock slide",
                 "damage": 50,
@@ -3962,7 +3962,7 @@
                 "name": "stone edge",
                 "damage": 80,
                 "criticalRatio": 0.5,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "iron head",
@@ -3998,7 +3998,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "psychic",
                 "damage": 55,
@@ -4039,7 +4039,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "psychic",
                 "damage": 55,
@@ -4085,7 +4085,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "vice grip",
                 "damage": 25,
@@ -4126,7 +4126,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "vice grip",
                 "damage": 25,
@@ -4172,7 +4172,7 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "thunderbolt",
                 "damage": 55,
@@ -4213,7 +4213,7 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "thunderbolt",
                 "damage": 55,
@@ -4230,7 +4230,7 @@
                 "name": "hyper beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Electrode",
@@ -4248,7 +4248,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "psychic",
                 "damage": 55,
@@ -4288,7 +4288,7 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "psychic",
                 "damage": 55,
@@ -4305,7 +4305,7 @@
                 "name": "solar beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Exeggutor",
@@ -4334,7 +4334,7 @@
                 "energyInc": 9
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "bone club",
                 "damage": 25,
@@ -4375,7 +4375,7 @@
                 "energyInc": 9
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "bone club",
                 "damage": 25,
@@ -4392,7 +4392,7 @@
                 "name": "earthquake",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Marowak",
@@ -4421,7 +4421,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "low sweep",
                 "damage": 30,
@@ -4432,7 +4432,7 @@
                 "name": "stone edge",
                 "damage": 80,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "brick break",
@@ -4462,7 +4462,7 @@
                 "energyInc": 9
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "fire punch",
                 "damage": 40,
@@ -4512,12 +4512,12 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "hyper beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "stomp",
@@ -4529,7 +4529,7 @@
                 "name": "power whip",
                 "damage": 70,
                 "criticalRatio": 0.12,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Lickitung",
@@ -4554,7 +4554,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "dark pulse",
                 "damage": 45,
@@ -4590,7 +4590,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "dark pulse",
                 "damage": 45,
@@ -4636,7 +4636,7 @@
                 "energyInc": 9
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "bulldoze",
                 "damage": 35,
@@ -4677,24 +4677,24 @@
                 "energyInc": 9
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "earthquake",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "stone edge",
                 "damage": 80,
                 "criticalRatio": 0.5,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "megahorn",
                 "damage": 80,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Rhydon",
@@ -4721,7 +4721,7 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "dazzling gleam",
                 "damage": 55,
@@ -4732,7 +4732,7 @@
                 "name": "hyper beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "psychic",
@@ -4761,7 +4761,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "sludge bomb",
                 "damage": 55,
@@ -4772,13 +4772,13 @@
                 "name": "solar beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "power whip",
                 "damage": 70,
                 "criticalRatio": 0.12,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Tangela",
@@ -4806,12 +4806,12 @@
                 "energyInc": 9
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "earthquake",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "brick break",
@@ -4853,7 +4853,7 @@
                 "energyInc": 15
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "bubble beam",
                 "damage": 30,
@@ -4894,12 +4894,12 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "hydro pump",
                 "damage": 90,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "dragon pulse",
@@ -4911,7 +4911,7 @@
                 "name": "blizzard",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Seadra",
@@ -4940,7 +4940,7 @@
                 "energyInc": 10
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "aqua tail",
                 "damage": 45,
@@ -4981,7 +4981,7 @@
                 "energyInc": 10
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "drill run",
                 "damage": 50,
@@ -4992,7 +4992,7 @@
                 "name": "megahorn",
                 "damage": 80,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "icy wind",
@@ -5021,7 +5021,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "bubble beam",
                 "damage": 30,
@@ -5061,12 +5061,12 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "hydro pump",
                 "damage": 90,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "power gem",
@@ -5105,7 +5105,7 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "shadow ball",
                 "damage": 45,
@@ -5150,7 +5150,7 @@
                 "energyInc": 12
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "bug buzz",
                 "damage": 75,
@@ -5195,7 +5195,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "psyshock",
                 "damage": 40,
@@ -5240,7 +5240,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "thunderbolt",
                 "damage": 55,
@@ -5251,7 +5251,7 @@
                 "name": "thunder",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "thunder punch",
@@ -5285,12 +5285,12 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "fire blast",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "flamethrower",
@@ -5330,7 +5330,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "submission",
                 "damage": 30,
@@ -5375,12 +5375,12 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "earthquake",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "iron head",
@@ -5417,7 +5417,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "struggle",
                 "damage": 15,
@@ -5441,7 +5441,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "twister",
                 "damage": 25,
@@ -5452,7 +5452,7 @@
                 "name": "hydro pump",
                 "damage": 90,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "dragon pulse",
@@ -5485,7 +5485,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "ice beam",
                 "damage": 65,
@@ -5502,7 +5502,7 @@
                 "name": "blizzard",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Lapras",
@@ -5521,7 +5521,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "struggle",
                 "damage": 15,
@@ -5552,7 +5552,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "body slam",
                 "damage": 40,
@@ -5588,7 +5588,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "aqua tail",
                 "damage": 45,
@@ -5605,7 +5605,7 @@
                 "name": "hydro pump",
                 "damage": 90,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "favorite": false,
@@ -5626,7 +5626,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "thunderbolt",
                 "damage": 55,
@@ -5643,7 +5643,7 @@
                 "name": "thunder",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Jolteon",
@@ -5662,7 +5662,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "flamethrower",
                 "damage": 55,
@@ -5673,13 +5673,13 @@
                 "name": "fire blast",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "heat wave",
                 "damage": 80,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Flareon",
@@ -5706,7 +5706,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "discharge",
                 "damage": 35,
@@ -5749,7 +5749,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "rock tomb",
                 "damage": 30,
@@ -5789,7 +5789,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "rock slide",
                 "damage": 50,
@@ -5806,7 +5806,7 @@
                 "name": "hydro pump",
                 "damage": 90,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Omastar",
@@ -5831,7 +5831,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "aqua jet",
                 "damage": 25,
@@ -5871,7 +5871,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "water pulse",
                 "damage": 35,
@@ -5882,7 +5882,7 @@
                 "name": "stone edge",
                 "damage": 80,
                 "criticalRatio": 0.5,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "ancient power",
@@ -5911,7 +5911,7 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "iron head",
                 "damage": 30,
@@ -5922,7 +5922,7 @@
                 "name": "hyper beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "ancient power",
@@ -5955,18 +5955,18 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "hyper beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "earthquake",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "body slam",
@@ -5995,7 +5995,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "ice beam",
                 "damage": 65,
@@ -6012,7 +6012,7 @@
                 "name": "blizzard",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Articuno",
@@ -6035,7 +6035,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "discharge",
                 "damage": 35,
@@ -6052,7 +6052,7 @@
                 "name": "thunder",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Zapdos",
@@ -6075,18 +6075,18 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "fire blast",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "heat wave",
                 "damage": 80,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "flamethrower",
@@ -6117,7 +6117,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "wrap",
                 "damage": 25,
@@ -6155,7 +6155,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "wrap",
                 "damage": 25,
@@ -6195,12 +6195,12 @@
                 "energyInc": 4
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "hyper beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "dragon claw",
@@ -6239,7 +6239,7 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "psychic",
                 "damage": 55,
@@ -6256,7 +6256,7 @@
                 "name": "hyper beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Mewtwo",
@@ -6279,18 +6279,18 @@
                 "energyInc": 7
             }
         ],
-        "supermoves":[
+        "supermoves": [
             {
                 "name": "blizzard",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "earthquake",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "psychic",
@@ -6308,25 +6308,25 @@
                 "name": "thunder",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "fire blast",
                 "damage": 100,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "solar beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             },
             {
                 "name": "hyper beam",
                 "damage": 120,
                 "criticalRatio": 0.05,
-                "energyCost": 1.0
+                "energyCost": 1
             }
         ],
         "name": "Mew",
